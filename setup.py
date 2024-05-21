@@ -49,7 +49,7 @@ EXTRA_REQUIRE = {
 
 setup(
     name="kedro-airflow-k8s",
-    version="0.8.3-wip",
+    version="0.8.3",
     description="Kedro plugin with Airflow on Kubernetes support",
     long_description=README,
     long_description_content_type="text/markdown",
